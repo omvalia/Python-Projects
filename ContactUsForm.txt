@@ -1,0 +1,6 @@
+<-----Enquiry Form----->
+
+Name: Om
+Phone number: 1234567890
+Email Id: om@lancer.co.in
+Query: Can i get more information about placement cell?
